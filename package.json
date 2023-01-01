@@ -9,10 +9,10 @@
   },
   "devDependencies": {
     "@types/pixi.js": "^5.0.0",
-    "ts-loader": "^8.0.1",
+    "ts-loader": "^8.4.0",
     "typescript": "^3.9.6",
-    "webpack": "^4.29.0",
-    "webpack-cli": "^3.2.1",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^3.1.14"
   },
   "scripts": {
